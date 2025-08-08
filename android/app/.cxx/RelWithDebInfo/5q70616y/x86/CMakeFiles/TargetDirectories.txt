@@ -1,0 +1,2 @@
+/Users/admin/Documents/fabricasst/codecanyon-ABpZtu0i-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/.cxx/RelWithDebInfo/5q70616y/x86/CMakeFiles/edit_cache.dir
+/Users/admin/Documents/fabricasst/codecanyon-ABpZtu0i-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/.cxx/RelWithDebInfo/5q70616y/x86/CMakeFiles/rebuild_cache.dir

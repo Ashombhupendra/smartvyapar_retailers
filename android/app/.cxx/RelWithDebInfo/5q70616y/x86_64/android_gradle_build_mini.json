@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/admin/development/flutterLetest/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/admin/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/admin/Documents/fabricasst/codecanyon-ABpZtu0i-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/.cxx/RelWithDebInfo/5q70616y/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/admin/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/admin/Documents/fabricasst/codecanyon-ABpZtu0i-6ammart-multivendor-food-grocery-ecommerce-parcel-pharmacy-delivery-app-with-admin-website/User app and web/android/app/.cxx/RelWithDebInfo/5q70616y/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
